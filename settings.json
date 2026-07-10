@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "SOULREAPERMC.aternos.me",
+    "port": 18339,
     "version": "1.21.1"
   },
   "position": {
